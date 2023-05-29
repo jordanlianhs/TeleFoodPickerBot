@@ -10,7 +10,7 @@
 
 ## What are the commands available to the bot?
 
-![Screenshot](https://github.com/jordanlianhs/TelegramFoodPickerBot/blob/main/pic/menu.png) </br>
+![Screenshot](https://github.com/jordanlianhs/TeleFoodPickerBot/blob/main/pic/menu.png) </br>
 Above shows the available commands available to the bot.
 
 - start - Starts the bot
@@ -25,13 +25,13 @@ Above shows the available commands available to the bot.
 
 ### Help
 
-![Screenshot](https://github.com/jordanlianhs/TelegramFoodPickerBot/blob/main/pic/help.png) </br>
+![Screenshot](https://github.com/jordanlianhs/TeleFoodPickerBot/blob/main/pic/help.png) </br>
 
 - Here you can see the available commands and what they do and also tap/click on the commands to prompt the bot to execute them </br>
 
 ### Choose Cuisine
 
-![Screenshot](https://github.com/jordanlianhs/TelegramFoodPickerBot/blob/main/pic/choosecuisine.png) </br>
+![Screenshot](https://github.com/jordanlianhs/TeleFoodPickerBot/blob/main/pic/choosecuisine.png) </br>
 
 - Here you will be prompted to choose 6 different cuisine with the bot remembering your last option, before arriving at a final option
 - If you press on reroll, it will not count towards the 6 different cuisines as you are unsure of the availability of both cuisines in your vicinity
@@ -46,7 +46,7 @@ Above shows the available commands available to the bot.
 
 ### Choose Food
 
-![Screenshot](https://github.com/jordanlianhs/TelegramFoodPickerBot/blob/main/pic/choosefood.png) </br>
+![Screenshot](https://github.com/jordanlianhs/TeleFoodPickerBot/blob/main/pic/choosefood.png) </br>
 
 - Here you will be prompted to choose 10 different fiids with the bot remembering your last option, before arriving at a final option
 - If you press on reroll, it will not count towards the 6 different foods as you are unsure of the availability of both cuisines in your vicinity
